@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "d6821a65-9959-4d3a-9ea5-62d5c101c51e",
+    "pack_scope": "world",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 20, 80 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "Resource Pack",
+      "uuid": "07defb3b-7250-426c-96b6-e5f7b7bbc381",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "e7096b05-a101-454d-b23f-862f6d8f585b",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "metadata": {
+    "authors": [ "r4isen1920" ],
+    "url": "https://mcpedl.com/user/r4isen1920",
+    "product_type": "addon"
+  }
+}
