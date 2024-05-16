@@ -1,0 +1,24 @@
+{
+
+  "inventory_panel": {
+    "type": "panel",
+    "size": [ 88, 83 ],
+    "anchor_from": "bottom_middle",
+    "anchor_to": "bottom_middle",
+    "controls": [
+      {
+        "inventory_grid": {
+          "type": "grid",
+          "size": [ 162, 72 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "offset": [ 0, -26 ],
+          "grid_dimensions": [ 9, 4 ],
+          "grid_item_template": "common.grid_item_for_inventory",
+          "collection_name": "inventory_items"
+        }
+      }
+    ]
+  }
+
+}
